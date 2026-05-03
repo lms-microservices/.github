@@ -1,9 +1,45 @@
-## Hi there 👋
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=EduFlow+LMS;Microservices+Architecture;Spring+Boot+%7C+Cloud+Ready;Built+Like+a+Real+Startup" />
+</p>
 
-**Here are some ideas to get you started:**
+<h1 align="center">🎓 EduFlow</h1>
 
-- 🙋‍♀️ A short introduction - what is your organization all about?
-- 🌈 Contribution guidelines - how can the community get involved?
-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-- 🍿 Fun facts - what does your team eat for breakfast?
-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+<p align="center">
+  A modern, cloud-ready <b>Microservices Learning Management System</b><br/>
+  Built with Spring Boot, designed for scale, and engineered like production systems.
+</p>
+
+---
+
+## 🏷️ Tech & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-4.0.5-green?style=for-the-badge&logo=springboot"/>
+  <img src="https://img.shields.io/badge/Spring_Cloud-2025.1.1-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-DB-316192?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/AWS-Ready-232F3E?style=for-the-badge&logo=amazonaws"/>
+</p>
+
+---
+
+## ⚡ What is EduFlow?
+
+EduFlow is a **production-style LMS** inspired by real platforms like Udemy.
+
+It is built to simulate:
+- 🧱 Scalable Microservices Architecture  
+- 🔐 Secure Authentication (JWT + Gateway)  
+- ☁️ Cloud Deployment Pipeline  
+- 👥 Real-world Team Collaboration  
+
+---
+
+## 🧩 Core Services
+
+```txt
+Auth • User • Course • Payment • Review • Notification • Gateway • Eureka
+```
